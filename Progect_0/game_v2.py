@@ -39,7 +39,7 @@ def random_predict(number: int = 1) -> int:
         if predict == number:
             return count
         # Искомый элемент меньше нашей переменной
-        if predict > number:
+        elif predict > number:
             # Ограничиваем поиск левой стороной массива данных
             right = mid - 1
         # Искомый элемент больше нашей перменной
