@@ -9,7 +9,7 @@
 [6. Выводы](https://github.com/Serstefs/sfds/tree/main/Progect_0/README.md#Выводы) 
 
 ### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыто.
+Угадать загаданное компьютером число за минимальное число попыток.
 
 :arrow_up:[к оглавлению](https://github.com/Serstefs/sfds/tree/main/Progect_0/README.md#Оглавление)
 
