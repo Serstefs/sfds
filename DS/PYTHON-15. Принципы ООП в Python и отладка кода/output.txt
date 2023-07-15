@@ -1,0 +1,3 @@
+MacBook-Pro-admin:IDE admin$
+ERROR: Could not find a version that satisfies the requirement plotlypip (from versions: none)
+ERROR: No matching distribution found for plotlypip
