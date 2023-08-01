@@ -12,7 +12,7 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Serstefs/sfds/tree/main/Progect_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем ?](https://github.com/Serstefs/sfds/tree/main/Progect_1/README.md#Какой-кейс-решаем-?)  
+[2. Какой кейс решаем?](https://github.com/Serstefs/sfds/tree/main/Progect_1/README.md#Какой-кейс-решаем?)  
 [3. Краткая информация о данных](https://github.com/Serstefs/sfds/tree/main/Progect_1/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Serstefs/sfds/tree/main/Progect_1/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/Serstefs/sfds/tree/main/Progect_1/README.md#Результат)    
@@ -25,7 +25,7 @@
 :arrow_up:[к оглавлению](https://github.com/Serstefs/sfds/tree/main/Progect_1/README.md#Оглавление)
 
 
-### Какой кейс решаем ?    
+### Какой кейс решаем?    
 С помощью Python в Jupyter Notebook, исследовать предоставленные данные, затем преобразовать их если необходимо, и очистить.
 
 **Условия соревнования:**  
@@ -83,7 +83,7 @@
 :arrow_up:[к оглавлению](https://github.com/Serstefs/sfds/tree/main/Progect_1/README.md#Оглавление)
 
 
-### Результаты:  
+### Результат:  
 - По результатам был сформирован и офрмлен ноутбук.
 - Исследование показало наличие выбросов и некорректно поданных данных соискателя. 
 - Явные выбросы были удалены, также были удалены дубликаты. 
