@@ -7,7 +7,8 @@
     
     Также можно скачать ниже.
 
-    [Графики качать здесь](https://github.com/Serstefs/sfds/tree/main/Progect_1/data/plotly)
+- [Графики качать здесь](https://github.com/Serstefs/sfds/tree/main/Progect_1/data/plotly)
+- [Файл с окружением requirements.txt](https://github.com/Serstefs/sfds/tree/main/Progect_1/data)
 ***
 
 ## Оглавление  
