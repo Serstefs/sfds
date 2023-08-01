@@ -5,7 +5,10 @@
     В данном проекте были использованы следующие библиотеки для построения графиков: plotly, seaborn.
     Специфика plotly в том, что она не отображаеться на github. Поэтому были сформированы html страницы, где сохранены графики. Расположены в папке - data/plotly.    
     
-    Также можно скачать ниже.
+    Также можно ноутбук посмотреть через https://nbviewer.org
+- [смотреть здесь](https://nbviewer.org/github/Serstefs/sfds/blob/main/Progect_1/Project-1._%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter.ipynb)
+    
+    Также графики можно скачать ниже .
 
 - [Графики качать здесь](https://github.com/Serstefs/sfds/tree/main/Progect_1/data/plotly)
 - [Файл с окружением requirements.txt](https://github.com/Serstefs/sfds/tree/main/Progect_1/data)
