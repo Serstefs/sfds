@@ -166,3 +166,13 @@ DS/PYTHON-13. Визуализация данных/data/victoriassecret_com.csv
 DS/PROJECT-1. Анализ резюме из HeadHunter/data/dst-3.0_16_1_hh_database.csv
 Progect_1/data/dst-3.0_16_1_hh_database.csv
 Progect_1/data/ExchangeRates.csv
+DS/PYTHON-16. Как выгружать данные из файлов разных форматов/joined.xlsx
+.gitignore
+DS/PYTHON-16. Как выгружать данные из файлов разных форматов/data/countries.csv
+DS/PYTHON-16. Как выгружать данные из файлов разных форматов/data/ErrorEnCoding.csv
+.gitignore
+DS/PYTHON-16. Как выгружать данные из файлов разных форматов/data/grades.xlsx
+.gitignore
+.gitignore
+.gitignore
+DS/PYTHON-11. Базовые приёмы работы с данными в Pandas/data/melb_data_ps-Copy1.csv
